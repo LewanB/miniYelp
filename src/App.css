@@ -1,0 +1,8 @@
+.mapContainer {
+  width: 35%;
+  height: 80vh;
+}
+
+.searchResults {
+  display: flex;
+}
